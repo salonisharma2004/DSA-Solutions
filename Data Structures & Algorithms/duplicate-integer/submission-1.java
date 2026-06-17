@@ -1,3 +1,8 @@
+Type of hash data structure used
+    Hash SET:
+
+
+
 class Solution 
 {
     public boolean hasDuplicate(int[] nums) 
